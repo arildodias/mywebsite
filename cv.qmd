@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+You can download my CV in PDF format using the link below:
+
+[Download my CV](cv/my_cv.pdf)

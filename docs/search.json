@@ -1,23 +1,65 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculum Vitae\nYou can download my CV in PDF format using the link below:\nDownload my CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "You can find my full list of publications on my Google Scholar profile.\n\n\n\nClimbing mechanisms as a central trait to understand the ecology of lianas across the tropics Arildo Dias, Rafael S. Oliveira, Fernando R. Martins, Frans Bongers, Niels P. R. Anten, Frank J. Sterck. Global Ecology and Biogeography (2024)\nUsing essential biodiversity variables to assess forest ecosystem integrity Arildo Dias, Shaya Van Houd, Katrin Meschin, …, Donalda Karnauskaite. Frontiers in Forests and Global Change (2023)\nPriorities for synthesis research in ecology and environmental science Benjamin S. Halpern, Carl Boettiger, Michael C. Dietze, …, Arildo Dias,…,Casey Youngflesh. Ecosphere (2023)\nGlobal maps of soil temperature Jonas J. Lembrechts, Johan van den Hoogen, Juha Aalto,…, Arildo Dias,…, Jonathan Lenoir. Global Change Biology (2021)"
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Climbing mechanisms as a central trait to understand the ecology of lianas across the tropics Arildo Dias, Rafael S. Oliveira, Fernando R. Martins, Frans Bongers, Niels P. R. Anten, Frank J. Sterck. Global Ecology and Biogeography (2024)\nUsing essential biodiversity variables to assess forest ecosystem integrity Arildo Dias, Shaya Van Houd, Katrin Meschin, …, Donalda Karnauskaite. Frontiers in Forests and Global Change (2023)\nPriorities for synthesis research in ecology and environmental science Benjamin S. Halpern, Carl Boettiger, Michael C. Dietze, …, Arildo Dias,…,Casey Youngflesh. Ecosphere (2023)\nGlobal maps of soil temperature Jonas J. Lembrechts, Johan van den Hoogen, Juha Aalto,…, Arildo Dias,…, Jonathan Lenoir. Global Change Biology (2021)"
+  },
+  {
+    "objectID": "projects.html#biodiversity-and-ecosystem-services",
+    "href": "projects.html#biodiversity-and-ecosystem-services",
+    "title": "Projects",
+    "section": "Biodiversity and ecosystem services",
+    "text": "Biodiversity and ecosystem services"
+  },
+  {
+    "objectID": "projects.html#conservation-and-sustainable-use-of-natural-resources",
+    "href": "projects.html#conservation-and-sustainable-use-of-natural-resources",
+    "title": "Projects",
+    "section": "Conservation and sustainable use of natural resources",
+    "text": "Conservation and sustainable use of natural resources"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My Research\nMy research is centered at the interface of biodiversity (taxonomic, functional, and phylogenetic), ecosystem services, and the conservation and sustainable use of natural resources. I have used various analytical and theoretical approaches combining empirical datasets with remote sensing and modeling to assess how climate change and land use influence species distribution, functional biodiversity, and ecosystem functioning. Besides trying to answer fundamental scientific questions, I am also particularly interested in translate this knowledge to support public policies and business applications while, at the same time, increasing societal benefits fairly and equitably. For instance, questions that I have explored include: what biodiversity and ecosystem metrics can support the assessment and monitoring of Nature-based Solutions (NbSs) by providing a more holistic perspective that not only carbon-centered metrics as currently is done in most of the voluntary carbon markets? what is the potential of green technologies (e.g., Web 3.0, machine learning, remote sensing, and IoT sensors) to provide data mobilization and transparency to support consistent allocation of financial resources to forest conservation?"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Arildo Dias",
     "section": "",
     "text": "Thanks for checking out my web site!"
   },
   {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an ecologist with a background in the academic and green tech sectors. I am interested in leveraging nature-based solutions (NbS) and technological innovations for conservation and monitoring biodiversity to enhance the resilience of communities in a changing world. I have developed a framework for monitoring and reporting the impact and dependencies on the nature of companies and portfolios (natural capital accounting). I use an integrative approach combining skills in data science, statistical modeling, geospatial analysis, and natural capital accounting to model and predict biodiversity and ecosystem services. Besides trying to answer fundamental scientific questions, I am also particularly interested in translating this knowledge to support public policies and business applications while, at the same time, increasing societal benefits fairly and equitably. I am committed to fostering diversity and inclusion, specifically focused on underrepresented minorities."
   },
   {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "About",
+    "section": "",
+    "text": "I am an ecologist with a background in the academic and green tech sectors. I am interested in leveraging nature-based solutions (NbS) and technological innovations for conservation and monitoring biodiversity to enhance the resilience of communities in a changing world. I have developed a framework for monitoring and reporting the impact and dependencies on the nature of companies and portfolios (natural capital accounting). I use an integrative approach combining skills in data science, statistical modeling, geospatial analysis, and natural capital accounting to model and predict biodiversity and ecosystem services. Besides trying to answer fundamental scientific questions, I am also particularly interested in translating this knowledge to support public policies and business applications while, at the same time, increasing societal benefits fairly and equitably. I am committed to fostering diversity and inclusion, specifically focused on underrepresented minorities."
   }
 ]
